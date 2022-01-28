@@ -6,9 +6,9 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-from shutil import copyfile
+From shutil import copyfile
 
-from sys import exit
+From sys import exit
 ### Step 2: 
 Take users the name of source and destination files.
 ### Step 3: 
@@ -21,10 +21,11 @@ Then print.
 End the program.
 
 ## PROGRAM:
+
 ```
 
-## DEVELOPED BY: Sudharshna Lakshmi.S
-## REGISTER NUMBER: 212221230110
+## DEVELOPED BY: ezhilmathi r
+## REGISTER NUMBER: 212221230026
 
 from shutil import copyfile
 from sys import exit
@@ -63,11 +64,10 @@ while True:
 
 ### OUTPUT:
 
-![Output](.//output1.png)
-
-![Output](.//output2.png)
-
-![Output](.//output3.png)
+![Output](n.png)
+![Output](n1.png)
+![Output](n2.png)
+![Output](n3.png)
 
 
 ## RESULT:
